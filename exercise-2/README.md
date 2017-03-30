@@ -6,7 +6,8 @@ In the space below, make a three column table of the current courses you are tak
 
 See `complete` branch for answers.
 
-**Course Number** | Course_Title | Course Intructor|
-INFO 201 | Technical Foundations | Mike Freeman|
-INFO 330 | UX and IA | Mike Doane |
-PSYCH 318 | Stastical Inferences | Geoffrey Loftus|
+|**Course Number** | _Course Title_ | Course Intructor|
+|------------------|--------------|---|
+|INFO 201 | Technical Foundations | Mike Freeman|
+|INFO 330 | UX and IA | Mike Doane |
+|PSYCH 318 | Stastical Inferences | Geoffrey Loftus|
